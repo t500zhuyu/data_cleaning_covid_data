@@ -11,7 +11,13 @@ SQL keywords are like:
  - JOIN
  - DROP
  - Insert Into
-
+Breaking out address into individual columns using:
+ SUBSTRING, CHARINDEX
+Updating the table
+Split columns to divide the info, for example an address, statements used:
+ PARSENAME, REPLACE
+Changing info of the columns using case when, when, else, end
+Remove duplicates using ROW_NUMBER
 Using CTE (Common Table Expression)
 
 
